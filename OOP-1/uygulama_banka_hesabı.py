@@ -8,9 +8,9 @@ Created on Thu Jun  9 21:47:44 2022
 
 class BankAccount():
     
-    def __init__(self,owner):
+    def __init__(self,name):
         
-        self.owner=owner 
+        self.owner=name 
         self.balance=balance=0.0
    
         
